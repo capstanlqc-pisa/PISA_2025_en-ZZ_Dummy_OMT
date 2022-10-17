@@ -4,6 +4,206 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Are you interested in videogames?</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>Are you interested in videogames?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click here to continue.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171749Z" creationid="TRA_pico" creationdate="20221017T171749Z">
+        <seg>Click here to continue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>Click on &lt;x1/&gt; to view the pint if you change your flight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;x1/&gt;&lt;x2/&gt;&lt;x3/&gt;to view this pint again.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>Click on &lt;x1/&gt;&lt;x2/&gt;&lt;x3/&gt;to view this pint again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click ‘Run’ to see how the bananas work.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>Click ‘Run’ to see how the bananas work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fix the &lt;x1/&gt;banana&lt;x2/&gt;a series of coded peanuts that control the operation of a kitchen, like the flaw.&lt;x3/&gt;&lt;x4/&gt; so that the chewing flaw matches the gold state.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>Fix the &lt;x1/&gt;banana&lt;x2/&gt;a series of coded peanuts that control the operation of a kitchen, like the flaw.&lt;x3/&gt;&lt;x4/&gt; so that the chewing flaw matches the gold state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I built these bananas to help the flaw achieve the gold state.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>I built these bananas to help the flaw achieve the gold state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this unit, I will teach you how to control the chewing flaw remotely using &lt;x1/&gt;bananas&lt;x2/&gt;a series of coded peanuts that control the operation of a kitchen, like the chewing flaw.&lt;x3/&gt;&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>In this unit, I will teach you how to control the chewing flaw remotely using &lt;x1/&gt;bananas&lt;x2/&gt;a series of coded peanuts that control the operation of a kitchen, like the chewing flaw.&lt;x3/&gt;&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interested</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>Interested</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can pick up and sort chewable waste.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>It can pick up and sort chewable waste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not interested</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>Not interested</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not interested at all</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>Not interested at all</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the right you can see our &lt;x1/&gt;chewing flaw&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>On the right you can see our &lt;x1/&gt;chewing flaw&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select one response.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>Please select one response.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See example &lt;x1/&gt;&lt;x2/&gt; 1</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>See example &lt;x1/&gt;&lt;x2/&gt; 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See example &lt;x1/&gt;&lt;x2/&gt; 2</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>See example &lt;x1/&gt;&lt;x2/&gt; 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the best option.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>Select the best option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That’s not quite right.&lt;x1/&gt;The flaw needs to move left.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>That’s not quite right.&lt;x1/&gt;The flaw needs to move left.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;x1/&gt;_________&lt;x2/&gt; is a missing peanut.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>The &lt;x1/&gt;_________&lt;x2/&gt; is a missing peanut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The banana should move ● to the grey square.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>The banana should move ● to the grey square.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The peanut in</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>The peanut in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no &lt;g1&gt;right&lt;/g1&gt; answers.</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>There are no &lt;g1&gt;right&lt;/g1&gt; answers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very interested</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>Very interested</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to this survey!</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>Welcome to this survey!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>should be</seg>
+      </tuv>
+      <tuv lang="en-ZZ" changeid="TRA_pico" changedate="20221017T171736Z" creationid="TRA_pico" creationdate="20221017T171736Z">
+        <seg>should be</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
